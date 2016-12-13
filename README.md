@@ -1,2 +1,2 @@
 # hello-world
-doing whatever the tutorial asks me to
+I'm just following the tutorial here
